@@ -11,5 +11,3 @@ except:
 if result == 1:
    z = (x * y) + (5 * 15)
    print('Pay: ' + str(z)) 
-
-print('hello world')
